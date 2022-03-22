@@ -22,4 +22,3 @@ for i in range(20) :
                 points[i-1,j,k-1], points[i-1,j-1,k-1],points[i,j-1,k-1],
                 points[i,j-1,k],points[i,j-1,k-1], points[i,j,k-1],
                 points[i,j-1,k-1], points[i-1,j-1,k-1], points[i-1,j-1,k]),1)
-            
